@@ -1,0 +1,26 @@
+{
+    "lightgbm": {
+        "AmpRcRllRn": 0.867816091954023,
+        "AmoxRcRllRn-ClavulanRc acRd": 0.9319923371647509,
+        "CRprofloxacRn": 0.896551724137931,
+        "FosfomycRn": 0.9013409961685823,
+        "PenRcRllRn": 0.9090038314176245,
+        "CotrRmoxazole": 0.8773946360153256
+    },
+    "catboost": {
+        "AmpRcRllRn": 0.8649425287356322,
+        "AmoxRcRllRn-ClavulanRc acRd": 0.9281609195402298,
+        "CRprofloxacRn": 0.8936781609195402,
+        "FosfomycRn": 0.9013409961685823,
+        "PenRcRllRn": 0.9032567049808429,
+        "CotrRmoxazole": 0.8773946360153256
+    },
+    "xgboost": {
+        "AmpRcRllRn": 0.8553639846743295,
+        "AmoxRcRllRn-ClavulanRc acRd": 0.9339080459770115,
+        "CRprofloxacRn": 0.8984674329501916,
+        "FosfomycRn": 0.9003831417624522,
+        "PenRcRllRn": 0.907088122605364,
+        "CotrRmoxazole": 0.8726053639846744
+    }
+}
